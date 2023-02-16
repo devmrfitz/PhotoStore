@@ -15,4 +15,4 @@ six==1.16.0
 soupsieve==2.2.1
 tinydb==4.5.2
 waitress==2.0.0
-Werkzeug==2.0.1
+Werkzeug==2.2.3
